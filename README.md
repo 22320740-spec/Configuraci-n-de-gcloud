@@ -1,2 +1,2 @@
-# Configuraci-n-de-gcloud
+# Configuracion-de-gcloud
 Preparar un entorno de trabajo para Google Cloud Platform utilizando gcloud CLI
